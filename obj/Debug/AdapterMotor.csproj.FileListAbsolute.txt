@@ -1,0 +1,10 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\AdapterPatron\AdapterMotor\bin\Debug\AdapterMotor.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\AdapterPatron\AdapterMotor\bin\Debug\AdapterMotor.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\AdapterPatron\AdapterMotor\bin\Debug\AdapterMotor.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\AdapterPatron\AdapterMotor\bin\Debug\Enity.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\AdapterPatron\AdapterMotor\bin\Debug\Enity.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\AdapterPatron\AdapterMotor\obj\Debug\AdapterMotor.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\AdapterPatron\AdapterMotor\obj\Debug\AdapterMotor.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\AdapterPatron\AdapterMotor\obj\Debug\AdapterM.2B77BC15.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\AdapterPatron\AdapterMotor\obj\Debug\AdapterMotor.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\AdapterPatron\AdapterMotor\obj\Debug\AdapterMotor.pdb

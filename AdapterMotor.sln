@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterMotor", "AdapterMotor.csproj", "{C828E241-4ECF-489D-BCB8-941095D7F69B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enity", "Enity\Enity.csproj", "{ECE79A82-86A0-4897-B0D6-16FD9D74DF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C828E241-4ECF-489D-BCB8-941095D7F69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C828E241-4ECF-489D-BCB8-941095D7F69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C828E241-4ECF-489D-BCB8-941095D7F69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C828E241-4ECF-489D-BCB8-941095D7F69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE79A82-86A0-4897-B0D6-16FD9D74DF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE79A82-86A0-4897-B0D6-16FD9D74DF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE79A82-86A0-4897-B0D6-16FD9D74DF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE79A82-86A0-4897-B0D6-16FD9D74DF44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68F9ACC4-0EED-4850-B1A7-29949828A280}
+	EndGlobalSection
+EndGlobal
